@@ -71,7 +71,7 @@ footer{
 
 <p>🔥 Produtos selecionados com os melhores preços.</p>
 
-<a class="botao" href="https://s.shopee.com.br/9pcuQX4XeY" target="_blank">
+<a class="botao" href="https://s.shopee.com.br/qi5idhPKl" target="_blank">
 Mini Seladora de Embalagens
 </a>
 
