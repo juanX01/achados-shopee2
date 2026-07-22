@@ -75,7 +75,7 @@ footer{
 Mini Seladora de Embalagens
 </a>
 
-<a class="botao" href="https://SEULINK2.com" target="_blank">
+<a class="botao" href="https://s.shopee.com.br/9Kgdq0j0gt" target="_blank">
 Luminária LED Sensor
 </a>
 
